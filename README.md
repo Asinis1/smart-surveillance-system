@@ -192,4 +192,4 @@ recordings/
 
 ## 📄 Lisans
 
-MIT © [YOUR_USERNAME](https://github.com/Asinis1)
+MIT © [Asinis1](https://github.com/Asinis1)
